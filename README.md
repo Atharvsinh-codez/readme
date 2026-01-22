@@ -7,7 +7,7 @@ Full Stack Developer
 I specialize in full-stack development with Next.js and Express.js, using TypeScript for type safety. I have experience with modern web technologies and tools.
 
 * 🌍  From Gujarat
-* 🖥️  See my portfolio at [athrix.agenv.tech](http://athrix.agenv.tech)
+* 🖥️  See my portfolio at [athrix.me](http://athrix.me)
 * ✉️  You can contact me at [at41rv@gmail.com](mailto:at41rv@gmail.com)
 * ⚡  I’m looking to collaborate on Web Apps ,Tech Events
 
